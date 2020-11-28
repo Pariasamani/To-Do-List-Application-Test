@@ -23,7 +23,8 @@ $ pip install Selenium
 
 ```
 
-## Documentation
+### Documentation
+
 I used unit testing with Selenium library in Python which is an open-source automation testing tool that comes as a testing suite with four different testing tools. 
 It can be executed in multiple browsers and operating systems
 Compatible with almost every programming language and testing framework
